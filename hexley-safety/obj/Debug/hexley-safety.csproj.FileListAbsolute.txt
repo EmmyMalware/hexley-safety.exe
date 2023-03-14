@@ -1,0 +1,8 @@
+C:\Users\April\source\repos\hexley-safety\hexley-safety\obj\Debug\hexley-safety.csproj.AssemblyReference.cache
+C:\Users\April\source\repos\hexley-safety\hexley-safety\obj\Debug\hexley_safety.Properties.Resources.resources
+C:\Users\April\source\repos\hexley-safety\hexley-safety\obj\Debug\hexley-safety.csproj.GenerateResource.cache
+C:\Users\April\source\repos\hexley-safety\hexley-safety\obj\Debug\hexley-safety.csproj.CoreCompileInputs.cache
+C:\Users\April\source\repos\hexley-safety\hexley-safety\bin\Debug\hexley-safety.exe
+C:\Users\April\source\repos\hexley-safety\hexley-safety\bin\Debug\hexley-safety.pdb
+C:\Users\April\source\repos\hexley-safety\hexley-safety\obj\Debug\hexley-safety.exe
+C:\Users\April\source\repos\hexley-safety\hexley-safety\obj\Debug\hexley-safety.pdb
